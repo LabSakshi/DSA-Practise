@@ -1,6 +1,6 @@
 # DSA-Practise
 DSA Practise
-The Repository includes solved problems from Interview preparation platforms, mostly Leetcode, GeeksForGeeks and InterviewBit.
+The Repository includes solved problems.
 It aims to help boost coding skills and prepare for company interviews as well.
 
 **Comparison of different operations on hash tables and arrays:
